@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nadej\\source\\repos\\StoreManagement\\StoreManagement\\StoreManagement.csproj": {}
+    "C:\\Users\\nadej\\OneDrive\\Работен плот\\StoreManagement\\StoreManagement\\StoreManagement\\StoreManagement.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nadej\\source\\repos\\StoreManagement\\StoreManagement\\StoreManagement.csproj": {
+    "C:\\Users\\nadej\\OneDrive\\Работен плот\\StoreManagement\\StoreManagement\\StoreManagement\\StoreManagement.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nadej\\source\\repos\\StoreManagement\\StoreManagement\\StoreManagement.csproj",
+        "projectUniqueName": "C:\\Users\\nadej\\OneDrive\\Работен плот\\StoreManagement\\StoreManagement\\StoreManagement\\StoreManagement.csproj",
         "projectName": "StoreManagement",
-        "projectPath": "C:\\Users\\nadej\\source\\repos\\StoreManagement\\StoreManagement\\StoreManagement.csproj",
+        "projectPath": "C:\\Users\\nadej\\OneDrive\\Работен плот\\StoreManagement\\StoreManagement\\StoreManagement\\StoreManagement.csproj",
         "packagesPath": "C:\\Users\\nadej\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nadej\\source\\repos\\StoreManagement\\StoreManagement\\obj\\",
+        "outputPath": "C:\\Users\\nadej\\OneDrive\\Работен плот\\StoreManagement\\StoreManagement\\StoreManagement\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nadej\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -22,8 +22,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://pkgs.dev.azure.com/APi-IT-Community/236d83ce-56aa-4f67-a8e4-13df3644de9d/_packaging/apg-enterprise/nuget/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
@@ -43,7 +42,7 @@
           "dependencies": {
             "Swashbuckle.AspNetCore": {
               "target": "Package",
-              "version": "[6.2.3, )"
+              "version": "[6.4.0, )"
             }
           },
           "imports": [

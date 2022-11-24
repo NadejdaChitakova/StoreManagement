@@ -30,3 +30,35 @@ C:\Users\nadej\source\repos\StoreManagement\StoreManagement\obj\Debug\net6.0\ref
 C:\Users\nadej\source\repos\StoreManagement\StoreManagement\obj\Debug\net6.0\StoreManagement.pdb
 C:\Users\nadej\source\repos\StoreManagement\StoreManagement\obj\Debug\net6.0\StoreManagement.genruntimeconfig.cache
 C:\Users\nadej\source\repos\StoreManagement\StoreManagement\obj\Debug\net6.0\ref\StoreManagement.dll
+C:\Users\nadej\OneDrive\Работен плот\StoreManagement\StoreManagement\StoreManagement\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\nadej\OneDrive\Работен плот\StoreManagement\StoreManagement\StoreManagement\bin\Debug\net6.0\appsettings.json
+C:\Users\nadej\OneDrive\Работен плот\StoreManagement\StoreManagement\StoreManagement\bin\Debug\net6.0\StoreManagement.exe
+C:\Users\nadej\OneDrive\Работен плот\StoreManagement\StoreManagement\StoreManagement\bin\Debug\net6.0\StoreManagement.deps.json
+C:\Users\nadej\OneDrive\Работен плот\StoreManagement\StoreManagement\StoreManagement\bin\Debug\net6.0\StoreManagement.runtimeconfig.json
+C:\Users\nadej\OneDrive\Работен плот\StoreManagement\StoreManagement\StoreManagement\bin\Debug\net6.0\StoreManagement.dll
+C:\Users\nadej\OneDrive\Работен плот\StoreManagement\StoreManagement\StoreManagement\bin\Debug\net6.0\StoreManagement.pdb
+C:\Users\nadej\OneDrive\Работен плот\StoreManagement\StoreManagement\StoreManagement\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\nadej\OneDrive\Работен плот\StoreManagement\StoreManagement\StoreManagement\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\nadej\OneDrive\Работен плот\StoreManagement\StoreManagement\StoreManagement\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\nadej\OneDrive\Работен плот\StoreManagement\StoreManagement\StoreManagement\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\nadej\OneDrive\Работен плот\StoreManagement\StoreManagement\StoreManagement\obj\Debug\net6.0\StoreManagement.csproj.AssemblyReference.cache
+C:\Users\nadej\OneDrive\Работен плот\StoreManagement\StoreManagement\StoreManagement\obj\Debug\net6.0\StoreManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nadej\OneDrive\Работен плот\StoreManagement\StoreManagement\StoreManagement\obj\Debug\net6.0\StoreManagement.AssemblyInfoInputs.cache
+C:\Users\nadej\OneDrive\Работен плот\StoreManagement\StoreManagement\StoreManagement\obj\Debug\net6.0\StoreManagement.AssemblyInfo.cs
+C:\Users\nadej\OneDrive\Работен плот\StoreManagement\StoreManagement\StoreManagement\obj\Debug\net6.0\StoreManagement.csproj.CoreCompileInputs.cache
+C:\Users\nadej\OneDrive\Работен плот\StoreManagement\StoreManagement\StoreManagement\obj\Debug\net6.0\StoreManagement.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\nadej\OneDrive\Работен плот\StoreManagement\StoreManagement\StoreManagement\obj\Debug\net6.0\StoreManagement.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\nadej\OneDrive\Работен плот\StoreManagement\StoreManagement\StoreManagement\obj\Debug\net6.0\staticwebassets\msbuild.StoreManagement.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\nadej\OneDrive\Работен плот\StoreManagement\StoreManagement\StoreManagement\obj\Debug\net6.0\staticwebassets\msbuild.build.StoreManagement.props
+C:\Users\nadej\OneDrive\Работен плот\StoreManagement\StoreManagement\StoreManagement\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.StoreManagement.props
+C:\Users\nadej\OneDrive\Работен плот\StoreManagement\StoreManagement\StoreManagement\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.StoreManagement.props
+C:\Users\nadej\OneDrive\Работен плот\StoreManagement\StoreManagement\StoreManagement\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\nadej\OneDrive\Работен плот\StoreManagement\StoreManagement\StoreManagement\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\nadej\OneDrive\Работен плот\StoreManagement\StoreManagement\StoreManagement\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\nadej\OneDrive\Работен плот\StoreManagement\StoreManagement\StoreManagement\obj\Debug\net6.0\scopedcss\bundle\StoreManagement.styles.css
+C:\Users\nadej\OneDrive\Работен плот\StoreManagement\StoreManagement\StoreManagement\obj\Debug\net6.0\StoreManagement.csproj.CopyComplete
+C:\Users\nadej\OneDrive\Работен плот\StoreManagement\StoreManagement\StoreManagement\obj\Debug\net6.0\StoreManagement.dll
+C:\Users\nadej\OneDrive\Работен плот\StoreManagement\StoreManagement\StoreManagement\obj\Debug\net6.0\refint\StoreManagement.dll
+C:\Users\nadej\OneDrive\Работен плот\StoreManagement\StoreManagement\StoreManagement\obj\Debug\net6.0\StoreManagement.pdb
+C:\Users\nadej\OneDrive\Работен плот\StoreManagement\StoreManagement\StoreManagement\obj\Debug\net6.0\StoreManagement.genruntimeconfig.cache
+C:\Users\nadej\OneDrive\Работен плот\StoreManagement\StoreManagement\StoreManagement\obj\Debug\net6.0\ref\StoreManagement.dll

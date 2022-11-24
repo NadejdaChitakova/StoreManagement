@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nadej\\source\\repos\\StoreManagement\\DatabaseShemaManager\\DatabaseShemaManager.csproj": {}
+    "C:\\Users\\nadej\\OneDrive\\Работен плот\\StoreManagement\\StoreManagement\\DatabaseShemaManager\\DatabaseShemaManager.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nadej\\source\\repos\\StoreManagement\\DatabaseShemaManager\\DatabaseShemaManager.csproj": {
+    "C:\\Users\\nadej\\OneDrive\\Работен плот\\StoreManagement\\StoreManagement\\DatabaseShemaManager\\DatabaseShemaManager.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nadej\\source\\repos\\StoreManagement\\DatabaseShemaManager\\DatabaseShemaManager.csproj",
+        "projectUniqueName": "C:\\Users\\nadej\\OneDrive\\Работен плот\\StoreManagement\\StoreManagement\\DatabaseShemaManager\\DatabaseShemaManager.csproj",
         "projectName": "DatabaseShemaManager",
-        "projectPath": "C:\\Users\\nadej\\source\\repos\\StoreManagement\\DatabaseShemaManager\\DatabaseShemaManager.csproj",
+        "projectPath": "C:\\Users\\nadej\\OneDrive\\Работен плот\\StoreManagement\\StoreManagement\\DatabaseShemaManager\\DatabaseShemaManager.csproj",
         "packagesPath": "C:\\Users\\nadej\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nadej\\source\\repos\\StoreManagement\\DatabaseShemaManager\\obj\\",
+        "outputPath": "C:\\Users\\nadej\\OneDrive\\Работен плот\\StoreManagement\\StoreManagement\\DatabaseShemaManager\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nadej\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -22,8 +22,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://pkgs.dev.azure.com/APi-IT-Community/236d83ce-56aa-4f67-a8e4-13df3644de9d/_packaging/apg-enterprise/nuget/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
@@ -40,6 +39,22 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "EntityFramework": {
+              "target": "Package",
+              "version": "[6.4.4, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
