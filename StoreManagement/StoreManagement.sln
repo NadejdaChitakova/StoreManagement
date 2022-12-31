@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33110.190
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StoreManagement", "StoreManagement\StoreManagement.csproj", "{B3C3D790-D6BC-46A4-A0F5-1ACF80F00E45}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StoreManagement", "StoreManagement\StoreManagement.csproj", "{B3C3D790-D6BC-46A4-A0F5-1ACF80F00E45}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DatabaseShemaManager", "DatabaseShemaManager\DatabaseShemaManager.csproj", "{7AA4E3A2-C5BE-4E75-9FF1-B3EF2C51F9AF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DatabaseShemaManager", "DatabaseShemaManager\DatabaseShemaManager.csproj", "{7AA4E3A2-C5BE-4E75-9FF1-B3EF2C51F9AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuthorizationAPI", "AuthorizationAPI\AuthorizationAPI.csproj", "{878C8EAB-256A-47EA-B3AB-FD052F4EACF4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{7AA4E3A2-C5BE-4E75-9FF1-B3EF2C51F9AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7AA4E3A2-C5BE-4E75-9FF1-B3EF2C51F9AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7AA4E3A2-C5BE-4E75-9FF1-B3EF2C51F9AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{878C8EAB-256A-47EA-B3AB-FD052F4EACF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{878C8EAB-256A-47EA-B3AB-FD052F4EACF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{878C8EAB-256A-47EA-B3AB-FD052F4EACF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{878C8EAB-256A-47EA-B3AB-FD052F4EACF4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
